@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimeshc64&label=Profile%20views&color=0e75b6&style=flat" alt="nimeshc64" /> </p>
 
-- 🔭 I’m currently working on **GapStars | CertScanner**
+- 🔭 I’m currently working as *Freelance Software Engineer**
 
 - 🌱 I’m currently learning **Laravel, AWS**
 
 - 💬 Ask me about **vue, aws, laravel**
 
-- 📫 How to reach me **nimeshc64@gmail.com**
+- 📫 How to reach me **nimeshjayaweera.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
